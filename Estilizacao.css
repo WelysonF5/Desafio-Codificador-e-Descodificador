@@ -52,7 +52,7 @@ input[type="text"], textarea {
 
 /* Container dos botões */
 .divdobotoes {
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     display: flex;
     justify-content: center;
     gap: 20px; /* Espaçamento entre os botões */
