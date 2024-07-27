@@ -8,7 +8,7 @@
 /* Logo Alura */
 .imagem {
     display: block; /* Altera para block para controlar melhor o alinhamento */
-    margin: 0 0 0 150px;
+    margin: 0 0 0 50px;
 }
 
 /* Estilo para os inputs de texto e textareas */
